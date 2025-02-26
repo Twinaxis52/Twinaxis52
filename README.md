@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kariel Sanchez Ruiz
-- 👀 I’m interested in coding and have taken an interest in Data Science
+- 👀 I’m interested in coding and have taken an interest in Data Science and Data Analysis
 - 💞️ I’m looking to collaborate on projects that will improve my skills as a coder
 - 📫 How to reach me email: sanchez.kariel@yahoo.com
 
